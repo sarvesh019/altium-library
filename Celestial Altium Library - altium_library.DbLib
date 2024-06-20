@@ -932,6 +932,9 @@ TableName=sysdiagrams
 Enabled=False
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=
 [Table153]
 SchemaName=
 TableName=z_AmplifiersAudio
